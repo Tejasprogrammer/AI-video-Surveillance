@@ -1,0 +1,43 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+}
+
+.copy_wright_footer
+{
+position: fixed;
+color: white;
+width: 100%;
+text-align: center;
+background-color: black;
+bottom:0;
+font-size: 18px;
+font-weight: bold;
+}
+
+#status
+{
+font-size: 18px;;
+}
+
+#start, #number_of-objects
+{
+    font-size: 20px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px rgb(223, 37, 223);
+border-radius: 15px;
+border: 4px solid grey;
+margin-top: 130px;
+}
+
+
